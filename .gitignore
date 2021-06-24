@@ -11,8 +11,9 @@ __pycache__/
 build/
 develop-eggs/
 dist/
+hello_world.py
 downloads/
-eggs/
+#eggs/
 .eggs/
 lib/
 lib64/
